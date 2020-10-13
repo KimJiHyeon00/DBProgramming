@@ -13,13 +13,13 @@ using System.Windows.Markup;
 
 namespace MarketBrowser
 {
+    //branch test1
     public partial class MainForm : Form
     {
         public MainForm()
         {
             InitializeComponent();
-            int a = 3; //일부러 적음
-            double b = 15;
+            
         }
 
         private List<List<string>> MarketColumnarDataStructure()
