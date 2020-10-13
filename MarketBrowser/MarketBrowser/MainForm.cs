@@ -18,7 +18,8 @@ namespace MarketBrowser
         public MainForm()
         {
             InitializeComponent();
-            int a = 0; //일부러 적음
+            int a = 3; //일부러 적음
+            double b = 15;
         }
 
         private List<List<string>> MarketColumnarDataStructure()
