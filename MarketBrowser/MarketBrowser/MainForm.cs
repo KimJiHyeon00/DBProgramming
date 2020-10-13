@@ -19,7 +19,7 @@ namespace MarketBrowser
         public MainForm()
         {
             InitializeComponent();
-            
+            //test
         }
 
         private List<List<string>> MarketColumnarDataStructure()
