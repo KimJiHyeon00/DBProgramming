@@ -19,6 +19,7 @@ namespace MarketBrowser
         public MainForm()
         {
             InitializeComponent();
+            //commint-push
             //test
         }
 
